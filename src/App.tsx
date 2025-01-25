@@ -8,11 +8,11 @@ import Testimonials from './components/Testimonials';
 import Blog from './components/Blog';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Analytics from '@vercel/analytics/react'
+import {Analytics} from "@vercel/analytics/react";
 function App() {
   return (
     <div className="min-h-screen">
-        <Analytics/>
+        <Analytics />
       <Header />
       <main>
         <Hero />
