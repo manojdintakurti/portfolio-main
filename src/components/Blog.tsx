@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ArrowRight, Calendar, Clock } from 'lucide-react';
 
 const articles = [

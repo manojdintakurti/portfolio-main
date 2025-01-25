@@ -1,4 +1,4 @@
-import React from 'react';
+
 import {
   FaReact, FaHtml5, FaCss3Alt, FaNodeJs, FaAws,
   FaDatabase, FaDocker, FaPython
